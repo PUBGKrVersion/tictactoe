@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+	background:powderblue;
+}
+header{
+	color:rgba(255,255,255,.8);
+	font-weight:bold;
+	font-size:1.4em; 
+	background-color: black;
+	background:rgba(0,0,0,.5);
+	margin: 0px 480px;
+}
+header:hover{
+	color: white;
+	text-shadow:3px 3px black;
+}
+div{
+	background:rgba(0,0,0,.5);
+	padding: 15px;
+	margin: 0px 480px;
+}
+iframe{
+	height: 100px;
+	width: 100px;
+	padding: 1px;
+}
+.c1{
+	border-right:5px solid green;
+}
+.c3{
+	border-left:5px solid green;
+}
+.c2{
+	border-left:5px solid green;
+	border-right:5px solid green;
+}
+.r1{
+	border-bottom:5px solid green;
+}
+.r2{
+	border-top:5px solid green;
+	border-bottom:5px solid green;
+}
+.r3{
+	border-top:5px solid green;
+}
